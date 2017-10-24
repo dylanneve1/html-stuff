@@ -1,6 +1,6 @@
 # html-stuff
 
-<h2>This is a repository for http://jamalsnewpet.atwebpages.com/</h2>
+<h2>This is a backup repository for http://jamalsnewpet.atwebpages.com/</h2>
 
 <strong>Current contributors are :</strong>
 <br>
