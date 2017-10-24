@@ -2,7 +2,7 @@
 
 <h2>This is a repository for http://www.jamalsnewpet.atwebpages.com</h2>
 
-<h2>Current contributors are :</h2>
+<strong>Current contributors are :</strong>
 <br>
 <strong>Marcus Kennedy</strong> - Th3-Macu5
 <br>
